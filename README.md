@@ -8,5 +8,5 @@
 
 ## Social
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-00aced.svg?style=flat&logo=linkedin)]([![linkedin](https://img.shields.io/badge/LinkedIn-00aced.svg?style=flat&logo=linkedin)](https://twitter.com/JoshDoesa))
+[![Linkedin](https://img.shields.io/badge/Linkedin-181717.svg?style=flat&logo=linkedin)](https://www.linkedin.com/in/joaquin-andresen-52378711a)
 [![Instagram](https://img.shields.io/badge/Instagram-181717.svg?style=flat&logo=instagram)](https://www.instagram.com/joacoandresen?igsh=bnhlaW1xcGxuMjhj&utm_source=qr)

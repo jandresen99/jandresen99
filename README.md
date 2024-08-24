@@ -5,7 +5,7 @@
 
 These don't include activity done inside organizations for obvious reasons.
 
-### Technologies:
+## Technologies:
 [![My Skills](https://skillicons.dev/icons?i=python,go,rust,aws,azure,terraform,docker,kubernetes,mysql)](https://skillicons.dev)
 
 ## Social

@@ -11,4 +11,3 @@ These don't include activity done inside organizations for obvious reasons.
 ## Social
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-181717.svg?style=flat&logo=linkedin)](https://www.linkedin.com/in/joaquin-andresen-52378711a)
-[![Instagram](https://img.shields.io/badge/Instagram-181717.svg?style=flat&logo=instagram)](https://www.instagram.com/joacoandresen?igsh=bnhlaW1xcGxuMjhj&utm_source=qr)

@@ -1,7 +1,7 @@
 
 ![My GitHub stats](https://github-readme-stats-eight-lemon-89.vercel.app/api?username=jandresen99&show_icons=true&hide=stars&theme=transparent&&rank_icon=github&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-## Technologies:
+## Technologies
 [![My Skills](https://skillicons.dev/icons?i=python,go,rust,aws,azure,terraform,docker,kubernetes,mysql)](https://skillicons.dev)
 
 ## Work Experience
